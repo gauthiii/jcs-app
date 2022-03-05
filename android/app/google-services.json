@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "461274266884",
+    "firebase_url": "https://joint-club.firebaseio.com",
+    "project_id": "joint-club",
+    "storage_bucket": "joint-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461274266884:android:3488bc4ac3f06db2c6e451",
+        "android_client_info": {
+          "package_name": "com.gauthiii.JC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJwc0qK-eLaBCasdHPYR5ai27STdCOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461274266884:android:c88e9532abdcd74fc6e451",
+        "android_client_info": {
+          "package_name": "com.gauthiii.jc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461274266884-s8seeupqih91ti7i3gjp9t90dc303kdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauthiii.jc",
+            "certificate_hash": "a21df0a0249efbfc823431eece0e64681a4db8a4"
+          }
+        },
+        {
+          "client_id": "461274266884-u7qhh25264risoct8apnsfobjjqk3ccv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauthiii.jc",
+            "certificate_hash": "b11cc2b05217b2f1d92c5b2794ee63e656086a3a"
+          }
+        },
+        {
+          "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJwc0qK-eLaBCasdHPYR5ai27STdCOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461274266884:android:c532ec364908951fc6e451",
+        "android_client_info": {
+          "package_name": "com.gauthiii.jc_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461274266884-hccaeselttp3tr5g1sfpqsb26a8olk1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauthiii.jc_messenger",
+            "certificate_hash": "b11cc2b05217b2f1d92c5b2794ee63e656086a3a"
+          }
+        },
+        {
+          "client_id": "461274266884-jrq81nf6h6th58d8f3nlspscdde08tms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauthiii.jc_messenger",
+            "certificate_hash": "49a99eaa51c7cf66bc805a73b7e0b1ea07533e33"
+          }
+        },
+        {
+          "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJwc0qK-eLaBCasdHPYR5ai27STdCOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461274266884:android:7c37d07c297499aac6e451",
+        "android_client_info": {
+          "package_name": "com.gauthiii.jcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJwc0qK-eLaBCasdHPYR5ai27STdCOvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461274266884-l8hn2jrsqmk3krhjm77ta66efk4c83bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
